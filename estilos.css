@@ -319,10 +319,10 @@ main {
    
    
    @media (max-width: 1070px) {
-#productos img {
+/*#productos img {
        width:455px;
        height: 275px;
-}
+}*/
 #productos img {
            width: 100%;
            height: 100%;
