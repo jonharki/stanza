@@ -129,7 +129,7 @@ header .navbar ul li a:hover {
     margin: auto;
 }
 
-#
+
 
 #productos {
     margin-top: -10px;
@@ -324,9 +324,10 @@ main {
        height: 275px;
 }
 #showroom img {
-           width: 600px;
-           height: auto;
+           width: 100%;
+           height: 100%;
        }
+        #contacto textarea{margin-top: 50px;}
 
    }
 
@@ -340,7 +341,7 @@ main {
            width: 600px;
            height: auto;
        }
-       #contacto textarea{margin-top: 50px;}
+      
    }
 
    @media (max-width: 850px) {
