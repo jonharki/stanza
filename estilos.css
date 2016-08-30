@@ -329,6 +329,10 @@ main {
        }
         #contacto textarea{margin-top: 50px;}
 
+         #productos h4 {font-size: 30px;}
+      
+      #banner .btn-xl {font-size: 24px;}
+
    }
 
    @media (max-width: 970px){
